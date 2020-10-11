@@ -2,6 +2,6 @@ aa
 bb
 cc
 dd
-ee master-----
+ee follow-----
 ff----
 gg
