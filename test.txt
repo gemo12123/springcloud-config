@@ -1,4 +1,5 @@
 aa follower update
+aa master update
 bb
 cc
 dd
